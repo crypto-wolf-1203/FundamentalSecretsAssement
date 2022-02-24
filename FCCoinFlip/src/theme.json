@@ -1,0 +1,33 @@
+{
+  "fonts": {
+    "primary": {
+      "name": "Open Sans",
+      "weights": [300, 400, 500, 600, 700, 800]
+    },
+    "special": {
+      "name": "Comfortaa",
+      "weights": [300, 400, 500, 600, 700, 800]
+    },
+    "digits": {
+      "name": "IBM Plex Sans",
+      "weights": [300, 400, 500, 600, 700, 800]
+    }
+  },
+  "colors": {
+    "primary": "#AAFF26",
+    "darkYellow": "#ff7e00",
+    "lightYellow": "#ffd200",
+    "backgroundPage": "#FFFFFF",
+    "black": "#000000",
+    "lightBlack": "#535353",
+    "gray": "#737373",
+    "white": "#FFFFFF",
+    "headingColor": "#CCC",
+    "textColor": "#C4C4C4",
+    "mainCover": "#221010"
+  },
+  "consts": {
+    "header_h": "64px",
+    "sidebar_w": "64px"
+  }
+}
